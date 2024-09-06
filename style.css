@@ -1,0 +1,29 @@
+.relogio {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .horario {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+  }
+  
+  body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    background-image: linear-gradient(to right, cyan, lime);
+  }
+  
+  p {
+    font-size: 50px;
+  }
